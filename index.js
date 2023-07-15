@@ -91,4 +91,5 @@
 // console.log(getNumberDigit(123, 1)) // 2
 // console.log(getNumberDigit(123, 2)) // 3
 // console.log(getNumberDigit(1, 2)) // undefined
+//
 
